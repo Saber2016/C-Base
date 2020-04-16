@@ -1,0 +1,11 @@
+/Users/qinyuanlong/C-Base/CSharpWithTask/TaskWithParameters/bin/Debug/netcoreapp3.1/TaskWithParameters.deps.json
+/Users/qinyuanlong/C-Base/CSharpWithTask/TaskWithParameters/bin/Debug/netcoreapp3.1/TaskWithParameters.runtimeconfig.json
+/Users/qinyuanlong/C-Base/CSharpWithTask/TaskWithParameters/bin/Debug/netcoreapp3.1/TaskWithParameters.runtimeconfig.dev.json
+/Users/qinyuanlong/C-Base/CSharpWithTask/TaskWithParameters/bin/Debug/netcoreapp3.1/TaskWithParameters.dll
+/Users/qinyuanlong/C-Base/CSharpWithTask/TaskWithParameters/bin/Debug/netcoreapp3.1/TaskWithParameters.pdb
+/Users/qinyuanlong/C-Base/CSharpWithTask/TaskWithParameters/obj/Debug/netcoreapp3.1/TaskWithParameters.csproj.CoreCompileInputs.cache
+/Users/qinyuanlong/C-Base/CSharpWithTask/TaskWithParameters/obj/Debug/netcoreapp3.1/TaskWithParameters.AssemblyInfoInputs.cache
+/Users/qinyuanlong/C-Base/CSharpWithTask/TaskWithParameters/obj/Debug/netcoreapp3.1/TaskWithParameters.AssemblyInfo.cs
+/Users/qinyuanlong/C-Base/CSharpWithTask/TaskWithParameters/obj/Debug/netcoreapp3.1/TaskWithParameters.dll
+/Users/qinyuanlong/C-Base/CSharpWithTask/TaskWithParameters/obj/Debug/netcoreapp3.1/TaskWithParameters.pdb
+/Users/qinyuanlong/C-Base/CSharpWithTask/TaskWithParameters/obj/Debug/netcoreapp3.1/TaskWithParameters.genruntimeconfig.cache
