@@ -1,19 +1,25 @@
-﻿<Properties StartupConfiguration="{1E519671-9342-498D-84CE-7F30203A864F}|Default">
+﻿<Properties StartupConfiguration="{ACDD0177-97FC-4BC7-AC63-E98909C7747B}|Default">
   <MonoDevelop.Ide.ItemProperties.CSharpWithTask PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.TaskWithParameters FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TaskWithParameters/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.TaskWithParameters PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaskContinueWith/EmptyClass.cs">
     <Files>
       <File FileName="CSharpWithTask/Program.cs" Line="1" Column="1" />
       <File FileName="TaskWithoutParameter/Program.cs" Line="49" Column="23" />
-      <File FileName="TaskWithParameters/Program.cs" Line="1" Column="1" />
+      <File FileName="TaskWithParameters/Program.cs" Line="90" Column="1" />
+      <File FileName="TaskContinueWith/Program.cs" Line="35" Column="1" />
+      <File FileName="TaskContinueWith/Program.cs" Line="35" Column="1" />
+      <File FileName="TaskContinueWith/AnotherExample.cs" Line="4" Column="14" />
+      <File FileName="TaskContinueWith/EmptyClass.cs" Line="6" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpWithTask" expanded="True">
-            <Node name="TaskWithParameters" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="TaskContinueWith" expanded="True">
+              <Node name="EmptyClass.cs" selected="True" />
             </Node>
+            <Node name="TaskWithoutParameter" expanded="True" />
+            <Node name="TaskWithParameters" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -22,6 +28,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.TaskWithoutParameter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TaskContinueWith PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
