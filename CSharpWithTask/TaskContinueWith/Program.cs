@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Threading.Tasks;
+using TaskContinueWith;
 
 namespace ConsoleApp1
 {
@@ -28,6 +29,8 @@ namespace ConsoleApp1
             });
             task.Wait();
             cwt.Wait();
+            Console.WriteLine("-----------------------------------");
+            EmptyClass.Test();
         }
     }
 }

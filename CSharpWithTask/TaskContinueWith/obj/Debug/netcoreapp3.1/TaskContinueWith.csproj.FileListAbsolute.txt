@@ -9,3 +9,4 @@
 /Users/qinyuanlong/C-Base/CSharpWithTask/TaskContinueWith/obj/Debug/netcoreapp3.1/TaskContinueWith.dll
 /Users/qinyuanlong/C-Base/CSharpWithTask/TaskContinueWith/obj/Debug/netcoreapp3.1/TaskContinueWith.pdb
 /Users/qinyuanlong/C-Base/CSharpWithTask/TaskContinueWith/obj/Debug/netcoreapp3.1/TaskContinueWith.genruntimeconfig.cache
+/Users/qinyuanlong/C-Base/CSharpWithTask/TaskContinueWith/obj/Debug/netcoreapp3.1/TaskContinueWith.csprojAssemblyReference.cache

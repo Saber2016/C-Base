@@ -40,7 +40,7 @@ namespace TaskContinueWith
             //t7串行执行
             var t4 = Task.Factory.StartNew(() =>
             {
-                Console.WriteLine("当前集合元素个数：{0},Thread id {1}", stack.Count, Thread.CurrentThread.ManagedThreadId);
+                Console.WriteLine("当前集合元素个数：{0},Thread id: {1}", stack.Count, Thread.CurrentThread.ManagedThreadId);
             });
             t4.Wait();
         }

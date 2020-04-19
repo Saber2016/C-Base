@@ -6,10 +6,9 @@
       <File FileName="CSharpWithTask/Program.cs" Line="1" Column="1" />
       <File FileName="TaskWithoutParameter/Program.cs" Line="49" Column="23" />
       <File FileName="TaskWithParameters/Program.cs" Line="90" Column="1" />
-      <File FileName="TaskContinueWith/Program.cs" Line="35" Column="1" />
-      <File FileName="TaskContinueWith/Program.cs" Line="35" Column="1" />
-      <File FileName="TaskContinueWith/AnotherExample.cs" Line="4" Column="14" />
-      <File FileName="TaskContinueWith/EmptyClass.cs" Line="6" Column="1" />
+      <File FileName="TaskContinueWith/Program.cs" Line="38" Column="1" />
+      <File FileName="TaskContinueWith/Program.cs" Line="38" Column="1" />
+      <File FileName="TaskContinueWith/EmptyClass.cs" Line="52" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
