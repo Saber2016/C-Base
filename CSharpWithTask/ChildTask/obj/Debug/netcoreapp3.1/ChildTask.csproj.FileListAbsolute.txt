@@ -1,0 +1,11 @@
+/Users/qinyuanlong/C-Base/CSharpWithTask/ChildTask/bin/Debug/netcoreapp3.1/ChildTask.deps.json
+/Users/qinyuanlong/C-Base/CSharpWithTask/ChildTask/bin/Debug/netcoreapp3.1/ChildTask.runtimeconfig.json
+/Users/qinyuanlong/C-Base/CSharpWithTask/ChildTask/bin/Debug/netcoreapp3.1/ChildTask.runtimeconfig.dev.json
+/Users/qinyuanlong/C-Base/CSharpWithTask/ChildTask/bin/Debug/netcoreapp3.1/ChildTask.dll
+/Users/qinyuanlong/C-Base/CSharpWithTask/ChildTask/bin/Debug/netcoreapp3.1/ChildTask.pdb
+/Users/qinyuanlong/C-Base/CSharpWithTask/ChildTask/obj/Debug/netcoreapp3.1/ChildTask.csproj.CoreCompileInputs.cache
+/Users/qinyuanlong/C-Base/CSharpWithTask/ChildTask/obj/Debug/netcoreapp3.1/ChildTask.AssemblyInfoInputs.cache
+/Users/qinyuanlong/C-Base/CSharpWithTask/ChildTask/obj/Debug/netcoreapp3.1/ChildTask.AssemblyInfo.cs
+/Users/qinyuanlong/C-Base/CSharpWithTask/ChildTask/obj/Debug/netcoreapp3.1/ChildTask.dll
+/Users/qinyuanlong/C-Base/CSharpWithTask/ChildTask/obj/Debug/netcoreapp3.1/ChildTask.pdb
+/Users/qinyuanlong/C-Base/CSharpWithTask/ChildTask/obj/Debug/netcoreapp3.1/ChildTask.genruntimeconfig.cache

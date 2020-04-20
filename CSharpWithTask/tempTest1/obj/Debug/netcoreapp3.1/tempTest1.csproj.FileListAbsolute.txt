@@ -1,0 +1,11 @@
+/Users/qinyuanlong/C-Base/CSharpWithTask/tempTest1/bin/Debug/netcoreapp3.1/tempTest1.deps.json
+/Users/qinyuanlong/C-Base/CSharpWithTask/tempTest1/bin/Debug/netcoreapp3.1/tempTest1.runtimeconfig.json
+/Users/qinyuanlong/C-Base/CSharpWithTask/tempTest1/bin/Debug/netcoreapp3.1/tempTest1.runtimeconfig.dev.json
+/Users/qinyuanlong/C-Base/CSharpWithTask/tempTest1/bin/Debug/netcoreapp3.1/tempTest1.dll
+/Users/qinyuanlong/C-Base/CSharpWithTask/tempTest1/bin/Debug/netcoreapp3.1/tempTest1.pdb
+/Users/qinyuanlong/C-Base/CSharpWithTask/tempTest1/obj/Debug/netcoreapp3.1/tempTest1.csproj.CoreCompileInputs.cache
+/Users/qinyuanlong/C-Base/CSharpWithTask/tempTest1/obj/Debug/netcoreapp3.1/tempTest1.AssemblyInfoInputs.cache
+/Users/qinyuanlong/C-Base/CSharpWithTask/tempTest1/obj/Debug/netcoreapp3.1/tempTest1.AssemblyInfo.cs
+/Users/qinyuanlong/C-Base/CSharpWithTask/tempTest1/obj/Debug/netcoreapp3.1/tempTest1.dll
+/Users/qinyuanlong/C-Base/CSharpWithTask/tempTest1/obj/Debug/netcoreapp3.1/tempTest1.pdb
+/Users/qinyuanlong/C-Base/CSharpWithTask/tempTest1/obj/Debug/netcoreapp3.1/tempTest1.genruntimeconfig.cache

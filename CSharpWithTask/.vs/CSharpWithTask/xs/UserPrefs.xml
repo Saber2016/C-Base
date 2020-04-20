@@ -1,24 +1,23 @@
-﻿<Properties StartupConfiguration="{ACDD0177-97FC-4BC7-AC63-E98909C7747B}|Default">
+﻿<Properties StartupConfiguration="{F93D42D8-FAC9-45EF-BB4E-2803417959BA}|Default">
   <MonoDevelop.Ide.ItemProperties.CSharpWithTask PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ChildTask PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.TaskWithParameters PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TaskContinueWith/EmptyClass.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="tempTest1/Program.cs">
     <Files>
-      <File FileName="CSharpWithTask/Program.cs" Line="1" Column="1" />
-      <File FileName="TaskWithoutParameter/Program.cs" Line="49" Column="23" />
-      <File FileName="TaskWithParameters/Program.cs" Line="90" Column="1" />
       <File FileName="TaskContinueWith/Program.cs" Line="38" Column="1" />
-      <File FileName="TaskContinueWith/Program.cs" Line="38" Column="1" />
-      <File FileName="TaskContinueWith/EmptyClass.cs" Line="52" Column="1" />
+      <File FileName="TaskContinueWith/EmptyClass.cs" Line="41" Column="49" />
+      <File FileName="ChildTask/Program.cs" Line="28" Column="28" />
+      <File FileName="ChildTask/EmptyClass.cs" Line="51" Column="27" />
+      <File FileName="tempTest1/Program.cs" Line="9" Column="47" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpWithTask" expanded="True">
-            <Node name="TaskContinueWith" expanded="True">
-              <Node name="EmptyClass.cs" selected="True" />
+            <Node name="TaskContinueWith" expanded="True" />
+            <Node name="tempTest1" expanded="True">
+              <Node name="Program.cs" selected="True" />
             </Node>
-            <Node name="TaskWithoutParameter" expanded="True" />
-            <Node name="TaskWithParameters" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -31,5 +30,6 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.tempTest1 FirstBuild="True" />
   <MultiItemStartupConfigurations />
 </Properties>
