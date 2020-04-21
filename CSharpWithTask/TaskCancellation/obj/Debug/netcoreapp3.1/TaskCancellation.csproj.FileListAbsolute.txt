@@ -1,0 +1,11 @@
+/Users/qinyuanlong/C-Base/CSharpWithTask/TaskCancellation/bin/Debug/netcoreapp3.1/TaskCancellation.deps.json
+/Users/qinyuanlong/C-Base/CSharpWithTask/TaskCancellation/bin/Debug/netcoreapp3.1/TaskCancellation.runtimeconfig.json
+/Users/qinyuanlong/C-Base/CSharpWithTask/TaskCancellation/bin/Debug/netcoreapp3.1/TaskCancellation.runtimeconfig.dev.json
+/Users/qinyuanlong/C-Base/CSharpWithTask/TaskCancellation/bin/Debug/netcoreapp3.1/TaskCancellation.dll
+/Users/qinyuanlong/C-Base/CSharpWithTask/TaskCancellation/bin/Debug/netcoreapp3.1/TaskCancellation.pdb
+/Users/qinyuanlong/C-Base/CSharpWithTask/TaskCancellation/obj/Debug/netcoreapp3.1/TaskCancellation.csproj.CoreCompileInputs.cache
+/Users/qinyuanlong/C-Base/CSharpWithTask/TaskCancellation/obj/Debug/netcoreapp3.1/TaskCancellation.AssemblyInfoInputs.cache
+/Users/qinyuanlong/C-Base/CSharpWithTask/TaskCancellation/obj/Debug/netcoreapp3.1/TaskCancellation.AssemblyInfo.cs
+/Users/qinyuanlong/C-Base/CSharpWithTask/TaskCancellation/obj/Debug/netcoreapp3.1/TaskCancellation.dll
+/Users/qinyuanlong/C-Base/CSharpWithTask/TaskCancellation/obj/Debug/netcoreapp3.1/TaskCancellation.pdb
+/Users/qinyuanlong/C-Base/CSharpWithTask/TaskCancellation/obj/Debug/netcoreapp3.1/TaskCancellation.genruntimeconfig.cache

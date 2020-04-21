@@ -1,21 +1,21 @@
-﻿<Properties StartupConfiguration="{F93D42D8-FAC9-45EF-BB4E-2803417959BA}|Default">
+﻿<Properties StartupConfiguration="{0B11CEBE-E8B7-4DA9-8E54-6CAB66CA9CB1}|Default">
   <MonoDevelop.Ide.ItemProperties.CSharpWithTask PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ChildTask PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.TaskWithParameters PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="tempTest1/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaskCancellation/Program.cs">
     <Files>
       <File FileName="TaskContinueWith/Program.cs" Line="38" Column="1" />
       <File FileName="TaskContinueWith/EmptyClass.cs" Line="41" Column="49" />
       <File FileName="ChildTask/Program.cs" Line="28" Column="28" />
       <File FileName="ChildTask/EmptyClass.cs" Line="51" Column="27" />
-      <File FileName="tempTest1/Program.cs" Line="9" Column="47" />
+      <File FileName="tempTest1/Program.cs" Line="11" Column="10" />
+      <File FileName="TaskCancellation/Program.cs" Line="37" Column="52" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpWithTask" expanded="True">
-            <Node name="TaskContinueWith" expanded="True" />
-            <Node name="tempTest1" expanded="True">
+            <Node name="TaskCancellation" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -30,6 +30,7 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.tempTest1 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.tempTest1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TaskCancellation PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
